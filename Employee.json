@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "empName": "Uday Naliyapra",
+    "department": "React",
+    "yearOfExperience": "3",
+    "availabilityHours": "4 Houres",
+    "project": "Project 1",
+    "grade": "A"
+  },
+  {
+    "id": 2,
+    "empName": "Kandarp Dangi",
+    "department": "React",
+    "yearOfExperience": "2",
+    "availabilityHours": "6 Houres",
+    "project": "Project 2",
+    "grade": "B"
+  },
+  {
+    "id": 3,
+    "empName": "Dharmjeet Vaishnav",
+    "department": "React",
+    "yearOfExperience": "5",
+    "availabilityHours": "7 Houres",
+    "project": "Project 3",
+    "grade": "C"
+  },
+  {
+    "id": 4,
+    "empName": "Nikunj Thesiya",
+    "department": "React",
+    "yearOfExperience": "2",
+    "availabilityHours": "7 Houres",
+    "project": "Project 4",
+    "grade": "A"
+  },
+  {
+    "id": 5,
+    "empName": "Pranav Kakadiya",
+    "department": "Node",
+    "yearOfExperience": "3",
+    "availabilityHours": "4 Houres",
+    "project": "Project 5",
+    "grade": "C"
+  },
+  {
+    "id": 6,
+    "empName": "Ranjeet Prajapati",
+    "department": "Node",
+    "yearOfExperience": "6",
+    "availabilityHours": "2 Houres",
+    "project": "Project 6",
+    "grade": "B"
+  },
+  {
+    "id": 7,
+    "empName": "Ashirbad Mohanty",
+    "department": "React",
+    "yearOfExperience": "1",
+    "availabilityHours": "5 Houres",
+    "project": "Project 7",
+    "grade": "A"
+  },
+  {
+    "id": 8,
+    "empName": "Hemal Pansuriya",
+    "department": "Node",
+    "yearOfExperience": "2.5",
+    "availabilityHours": "6 Houres",
+    "project": "Project 8",
+    "grade": "A"
+  }
+]
